@@ -1,6 +1,7 @@
 #Conversão de tipos
 # Int para float
 
+
 x1 = 10
 x_float = float(x1)
 
