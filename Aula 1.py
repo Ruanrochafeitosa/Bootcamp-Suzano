@@ -50,7 +50,7 @@ parte_decimal_segunda = int(parte_decimal[1])
 if parte_decimal_int >= 5:
     num_str = f"{parte_inteira}.{parte_decimal[0]}{parte_decimal_segunda +1}"
 
-print(f"A resposta da questão 4 é:{num_str}")
+
 
 
 
